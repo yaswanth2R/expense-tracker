@@ -24,6 +24,20 @@ body {
   color: #4f46e5;
 }
 
+.navbar button {
+  margin-left: 12px;
+  background: #4f46e5;
+  color: white;
+  border: none;
+  padding: 8px 12px;
+  border-radius: 6px;
+  cursor: pointer;
+}
+
+.navbar button:hover {
+  background: #4338ca;
+}
+
 .page {
   max-width: 800px;
   margin: 30px auto;
@@ -94,4 +108,3 @@ li > div {
   width: auto;
   padding: 8px 12px;
 }
-\n\n.navbar button {\n  margin-left: 12px;\n  background: #4f46e5;\n  color: white;\n  border: none;\n  padding: 8px 12px;\n  border-radius: 6px;\n  cursor: pointer;\n}\n\n.navbar button:hover {\n  background: #4338ca;\n}\n
