@@ -1,0 +1,18 @@
+# dependencies
+node_modules/
+
+# build
+frontend/dist/
+
+# env
+backend/.env
+
+# sqlite db
+backend/*.db
+
+# logs
+npm-debug.log*
+
+# OS
+.DS_Store
+Thumbs.db
