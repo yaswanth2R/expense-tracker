@@ -1,0 +1,19 @@
+# dependencies
+node_modules/
+
+# build
+frontend/dist/
+frontend/.vite/
+
+# env
+backend/.env
+
+# sqlite db
+backend/*.db
+
+# logs
+npm-debug.log*
+
+# OS
+.DS_Store
+Thumbs.db
